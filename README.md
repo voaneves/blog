@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/blog/main/assets/logo/logo-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/blog/main/assets/logo/logo-light.svg" />
-  <img alt="Logotipo Blog do Victor Neves: disco dividido em tinta e papel com o monograma Bl e um ponto vermelho" src="https://raw.githubusercontent.com/voaneves/blog/main/assets/logo/logo-light.svg" width="112" height="112" />
+  <img alt="Logo do Blog do Victor Neves: linhas de texto, com um ponto vermelho para o ponto final" src="https://raw.githubusercontent.com/voaneves/blog/main/assets/logo/logo-light.svg" width="112" height="112" />
 </picture>
 
 <h1>Blog do Victor Neves</h1>
