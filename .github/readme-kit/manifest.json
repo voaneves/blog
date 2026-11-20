@@ -1,0 +1,46 @@
+{
+  "repo": "blog",
+  "branch": "main",
+  "lang": "pt-BR",
+  "license": "MIT",
+  "name": "Blog do Victor Neves",
+  "tagline": "Ensaios sobre programação, filosofia, economia e comportamento.",
+  "description": "Blog pessoal em HTML estático, PWA com cache offline, com ensaios sobre programação, economia e comportamento.",
+  "logo": {
+    "mark": "Bl"
+  },
+  "buttons": [
+    {
+      "id": "live",
+      "text": "Ler o blog",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.github.io/blog/"
+    },
+    {
+      "id": "posts",
+      "text": "Ver os posts",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://github.com/voaneves/blog#posts"
+    },
+    {
+      "id": "hire",
+      "text": "Vamos conversar",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.com/#contato",
+      "landing": false
+    },
+    {
+      "id": "site",
+      "text": "voaneves.com",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://voaneves.com/",
+      "landing": false
+    }
+  ],
+  "landing": false,
+  "live_url": "https://voaneves.github.io/blog/"
+}
