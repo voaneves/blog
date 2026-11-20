@@ -38,3 +38,7 @@ assets/                              fonts, img, js e styles
 ## Stack
 
 HTML, CSS e JavaScript puros; metadados de SEO (description, keywords, Open Graph), tema claro/escuro (`color-scheme`) e PWA com manifest + service worker.
+
+## Licença
+
+O código está sob a licença MIT (veja [LICENSE](LICENSE)). Os textos dos posts e as imagens são © Victor Neves, todos os direitos reservados.
